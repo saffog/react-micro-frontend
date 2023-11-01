@@ -6,6 +6,28 @@ React Micro Frontend using Wepback 5
 
 # Demo react-micro-frontend
 
+To execute Demo, on each micro front end, execute:
+
+1. Install required dependencies: 
+    ```
+    npm i axios react-router-dom
+    ``` 
+2. Install axios & react-router-dom dependencies: 
+    ```
+    npm i axios react-router-dom
+    ``` 
+3. Finally Start each micro front end:
+    ```
+    npm start
+    ``` 
+
+This Demo follows the next articles:
+
+- [What is micro frontend?](https://medium.com/@kunalznk/what-is-micro-frontend-75176334e329)
+- [Building micro frontends with React](https://medium.com/@kunalznk/building-micro-frontends-with-react-7f5a21a99825)
+- [Micro frontend integration](https://medium.com/@kunalznk/micro-frontend-integration-410f16c1a71d)
+
+
 ![home](https://github.com/kunalznk/react-micro-frontend/assets/50258809/46b0ff0c-ef4f-4e74-ba2c-5a8422bf5aea)
 ![prodList](https://github.com/kunalznk/react-micro-frontend/assets/50258809/a7d0dcf6-d1a6-45ad-a91c-76c222661cd2)
 ![prod](https://github.com/kunalznk/react-micro-frontend/assets/50258809/aee7ae5c-ac57-410b-abae-625b65587ba6)

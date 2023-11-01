@@ -8,10 +8,10 @@ import ProductPage from "./Components/ProductPage";
 
 const App = () => {
    return <div className="border-4  border-red-700">
-   <Routes>
-   <Route path="/" element={<ProductLists />}/> 
-   <Route path=":productId" element={<ProductPage />}/> 
-     </Routes>
+    <Routes>
+      <Route path="/" element={<ProductLists />}/> 
+      <Route path=":productId" element={<ProductPage />}/> 
+    </Routes>
    </div>
  
 };
